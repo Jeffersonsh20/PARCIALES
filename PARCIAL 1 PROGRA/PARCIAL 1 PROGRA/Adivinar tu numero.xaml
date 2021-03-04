@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PARCIAL_1_PROGRA.Adivinar_tu_numero">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="Msj1"
+            Text="PASO 1"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="24"
+            TextColor="Green"/>
+
+            <Label x:Name="Msj2"
+            Text="Piensa en un Número"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="24"
+            TextColor="Green"/>
+
+            <Label x:Name="l"
+             Text=""/>
+            <Label x:Name="j"
+             Text=""/>
+
+            <Label x:Name="Msj3"
+            Text="PASO 2"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="24"
+            TextColor="Green"/>
+            <Label x:Name="Msj4"
+            Text="Ahora multiplicalo * 2"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="24"
+            TextColor="Green"/>
+
+            <Label x:Name="k"
+             Text=""/>
+            <Label x:Name="h"
+             Text=""/>
+
+            <Label x:Name="Msj5"
+            Text="PASO 3"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+               FontSize="24"
+            TextColor="Green"/>
+            <Label x:Name="Msj6"
+            Text="Sumale + 8"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="24"
+            TextColor="Green"/>
+
+            <Label x:Name="ka"
+             Text=""/>
+            <Label x:Name="her"
+             Text=""/>
+
+            <Label x:Name="Msj7"
+            Text="PASO 4"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="24"
+            TextColor="Green"/>
+            <Label x:Name="Msj8"
+            Text="Multiplicalo * 5"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="24"
+            TextColor="Green"/>
+
+            <Label x:Name="jul"
+             Text=""/>
+            <Label x:Name="gud"
+             Text=""/>
+
+            <Button x:Name="BotonFinal"
+             Text="Siguiente Pagina"
+             VerticalOptions="Center"
+             HorizontalOptions="Center"
+             TextColor="Orange" 
+             FontSize="27"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

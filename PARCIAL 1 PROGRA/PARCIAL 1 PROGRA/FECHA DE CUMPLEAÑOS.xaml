@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PARCIAL_1_PROGRA.FECHA_DE_CUMPLEAÑOS">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="Msj18"
+            Text="Ahora escribe tu resultado aquí"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="30"
+            TextColor="Yellow"/>
+
+            <Label x:Name="l"
+             Text=""/>
+            <Label x:Name="j"
+             Text=""/>
+
+            <Entry x:Name="Enter1"
+             VerticalOptions="Center"
+             HorizontalOptions="Center"
+             WidthRequest="200"
+              FontSize="20"
+             TextColor="White"/>
+
+            <Label x:Name="jerf"
+             Text=""/>
+            <Label x:Name="moli"
+             Text=""/>
+
+
+
+            <Button x:Name="BOTONRESULTADO1"
+            Text="CALCULAR"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Orange" 
+            FontSize="27"/>
+
+            <Label x:Name="karen"
+             Text=""/>
+            <Label x:Name="julisa"
+             Text=""/>
+
+            <Entry x:Name="Resultado1"
+             VerticalOptions="Center"
+             HorizontalOptions="Center"
+             WidthRequest="200"
+              FontSize="20"
+             TextColor="White"/>
+
+            <Label x:Name="kare"
+             Text=""/>
+            <Label x:Name="juliss"
+             Text=""/>
+
+            <Button x:Name="REGRESAR1"
+            Text="REGRESAR"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Orange" 
+            FontSize="27"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

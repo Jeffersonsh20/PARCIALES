@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PARCIAL_1_PROGRA.ADIVINAR_TU_FECHA_DE_CUMPLEAÑOS">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="PASO 1" HorizontalTextAlignment="Center" TextColor="Green" FontSize="24"/>
+            <Label x:Name="Msj10"
+            Text="Anota el dia en que naciste"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="24"
+            TextColor="Green"/>
+
+            <Label x:Name="l"
+             Text=""/>
+            <Label x:Name="j"
+             Text=""/>
+
+            <Label x:Name="Msj11"
+            Text="PASO 2"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="24"
+            TextColor="Green"/>
+            <Label x:Name="Msj12"
+            Text="Ahora multiplicalo * 20"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="24"
+            TextColor="Green"/>
+
+            <Label x:Name="k"
+             Text=""/>
+            <Label x:Name="h"
+             Text=""/>
+
+            <Label x:Name="Msj13"
+            Text="PASO 3"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="24"
+            TextColor="Green"/>
+            <Label x:Name="Msj14"
+            Text="Sumale + 73"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="24"
+            TextColor="Green"/>
+
+            <Label x:Name="ka"
+             Text=""/>
+            <Label x:Name="her"
+             Text=""/>
+
+            <Label x:Name="Msj15"
+            Text="PASO 4"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="24"
+            TextColor="Green"/>
+            <Label x:Name="Msj16"
+            Text="Multiplicalo * 5"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="24"
+            TextColor="Green"/>
+
+            <Label x:Name="jul"
+             Text=""/>
+            <Label x:Name="gud"
+             Text=""/>
+
+
+            <Label x:Name="Msj17"
+            Text="PASO 5"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="24"
+            TextColor="Green"/>
+            <Label x:Name="Msj18"
+            Text="Ahora sumale tu mes de nacimiento"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="24"
+            TextColor="Green"/>
+
+            <Label x:Name="juli"
+             Text=""/>
+            <Label x:Name="gudi"
+             Text=""/>
+
+            <Button x:Name="Botonresul"
+             Text="Siguiente Pagina"
+             VerticalOptions="Center"
+             HorizontalOptions="Center"
+             TextColor="Orange" 
+             FontSize="27"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

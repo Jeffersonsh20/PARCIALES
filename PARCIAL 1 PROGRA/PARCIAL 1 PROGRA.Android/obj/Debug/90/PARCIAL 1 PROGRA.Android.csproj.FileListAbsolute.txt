@@ -1,0 +1,1476 @@
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\PARCIAL 1 PROGRA.Android.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\PARCIAL 1 PROGRA.Android.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\com.companyname.parcial_1_progra.apk
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\com.companyname.parcial_1_progra.aab
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\com.companyname.parcial_1_progra-Signed.aab
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\com.companyname.parcial_1_progra-Signed.apk
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\com.companyname.parcial_1_progra-Signed.apk.idsig
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\PARCIAL 1 PROGRA.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\PARCIAL 1 PROGRA.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\build.props
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\adb.props
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\PARCIAL 1 PROGRA.Android.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res.flag
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\12\jl\files.cache
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\13\jl\files.cache
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\17\jl\files.cache
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\19\jl\files.cache
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\26\jl\files.cache
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\30\jl\files.cache
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\32\jl\files.cache
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\33\jl\files.cache
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\34\jl\files.cache
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\38\jl\files.cache
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\39\jl\files.cache
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\R.txt
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\R.cs.flag
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\PARCIAL 1 PROGRA.Android.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\PARCIAL 1 PROGRA.Android.csproj.CopyComplete
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\PARCIAL 1 PROGRA.Android.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\PARCIAL 1 PROGRA.Android.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\com.companyname.parcial_1_progra.apk
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\com.companyname.parcial_1_progra.aab
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\com.companyname.parcial_1_progra.apks
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\uploadflags.txt
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\PARCIAL 1 PROGRA.Android.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\PARCIAL 1 PROGRA.Android.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\PARCIAL 1 PROGRA.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\PARCIAL 1 PROGRA.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.arm64-v8a.s
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.armeabi-v7a.s
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.x86.s
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.x86_64.s
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.shared.inc
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\AndroidManifest.xml
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\__environment__.txt
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\static.flag
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\buildid.txt
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EllipseView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LineView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PathView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolygonView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolylineView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RectView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShapeView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64788b5eccadce5cf4\MainActivity.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\com\companyname\parcial_1_progra\R.java
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.s
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.s
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.x86.s
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.x86_64.s
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.arm64-v8a.o
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.armeabi-v7a.o
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.x86.o
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.x86_64.o
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.o
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.o
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.x86.o
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.x86_64.o
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\PARCIAL 1 PROGRA.Android.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\PARCIAL 1 PROGRA.Android.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\com.companyname.parcial_1_progra.apk
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\com.companyname.parcial_1_progra.aab
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\com.companyname.parcial_1_progra-Signed.aab
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\com.companyname.parcial_1_progra-Signed.apk
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\com.companyname.parcial_1_progra-Signed.apk.idsig
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\PARCIAL 1 PROGRA.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\PARCIAL 1 PROGRA.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\build.props
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\adb.props
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\PARCIAL 1 PROGRA.Android.csprojAssemblyReference.cache
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res.flag
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\12\jl\files.cache
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\13\jl\files.cache
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\17\jl\files.cache
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\19\jl\files.cache
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\26\jl\files.cache
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\30\jl\files.cache
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\32\jl\files.cache
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\33\jl\files.cache
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\34\jl\files.cache
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\38\jl\files.cache
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\39\jl\files.cache
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\R.txt
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\R.cs.flag
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\PARCIAL 1 PROGRA.Android.csproj.CoreCompileInputs.cache
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\PARCIAL 1 PROGRA.Android.csproj.CopyComplete
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\PARCIAL 1 PROGRA.Android.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\PARCIAL 1 PROGRA.Android.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\com.companyname.parcial_1_progra.apk
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\base.zip
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\com.companyname.parcial_1_progra.aab
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\com.companyname.parcial_1_progra.apks
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\layout\tabbar.xml
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\layout\toolbar.xml
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\values\styles.xml
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\values\colors.xml
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\uploadflags.txt
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\resolvedassemblies.hash
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Java.Interop.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Mono.Android.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Mono.Security.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\mscorlib.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\mscorlib.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\netstandard.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\PARCIAL 1 PROGRA.Android.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\PARCIAL 1 PROGRA.Android.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\PARCIAL 1 PROGRA.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\PARCIAL 1 PROGRA.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Core.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Core.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Data.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Data.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Numerics.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Runtime.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Transactions.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Xml.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Xml.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.arm64-v8a.s
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.armeabi-v7a.s
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.x86.s
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.x86_64.s
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.shared.inc
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\AndroidManifest.xml
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\__environment__.txt
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\machine.config
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\mono.android.jar
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\static.flag
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\buildid.txt
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.arm64-v8a.s
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.x86.s
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.x86_64.s
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\compat\R.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\design\R.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\transition\R.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EllipseView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LineView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PathView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolygonView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolylineView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RectView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShapeView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64788b5eccadce5cf4\MainActivity.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\packaged_resources
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\com\companyname\parcial_1_progra\R.java
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.s
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.s
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.x86.s
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.x86_64.s
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.arm64-v8a.o
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.armeabi-v7a.o
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.x86.o
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.x86_64.o
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.arm64-v8a.o
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.x86.o
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.x86_64.o
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.o
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.o
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.x86.o
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.x86_64.o
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\classes.dex
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+E:\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\PARCIAL 1 PROGRA.Android.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\PARCIAL 1 PROGRA.Android.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\com.companyname.parcial_1_progra.apk
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\com.companyname.parcial_1_progra.aab
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\com.companyname.parcial_1_progra-Signed.aab
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\com.companyname.parcial_1_progra-Signed.apk
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\com.companyname.parcial_1_progra-Signed.apk.idsig
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\PARCIAL 1 PROGRA.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\bin\Debug\PARCIAL 1 PROGRA.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\build.props
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\adb.props
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\PARCIAL 1 PROGRA.Android.csprojAssemblyReference.cache
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res.flag
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\12\jl\files.cache
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\13\jl\files.cache
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\17\jl\files.cache
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\19\jl\files.cache
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\26\jl\files.cache
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\30\jl\files.cache
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\32\jl\files.cache
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\33\jl\files.cache
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\34\jl\files.cache
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\38\jl\files.cache
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\lp\39\jl\files.cache
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\R.txt
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\R.cs.flag
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\PARCIAL 1 PROGRA.Android.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\PARCIAL 1 PROGRA.Android.csproj.CopyComplete
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\PARCIAL 1 PROGRA.Android.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\PARCIAL 1 PROGRA.Android.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\com.companyname.parcial_1_progra.apk
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\com.companyname.parcial_1_progra.aab
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\com.companyname.parcial_1_progra.apks
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\uploadflags.txt
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\PARCIAL 1 PROGRA.Android.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\PARCIAL 1 PROGRA.Android.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\PARCIAL 1 PROGRA.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\PARCIAL 1 PROGRA.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.arm64-v8a.s
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.armeabi-v7a.s
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.x86.s
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.x86_64.s
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.shared.inc
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\AndroidManifest.xml
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\__environment__.txt
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\static.flag
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\buildid.txt
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EllipseView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LineView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PathView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolygonView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolylineView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RectView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShapeView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64788b5eccadce5cf4\MainActivity.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\src\com\companyname\parcial_1_progra\R.java
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.s
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.s
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.x86.s
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.x86_64.s
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.arm64-v8a.o
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.armeabi-v7a.o
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.x86.o
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\typemaps.x86_64.o
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.o
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.o
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.x86.o
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\compressed_assemblies.x86_64.o
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Jefferson Molina\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
