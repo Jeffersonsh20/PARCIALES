@@ -1,0 +1,20 @@
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2\bin\Debug\Parcial2.exe
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2\bin\Debug\Parcial2.pdb
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2\obj\Debug\Parcial2.csprojAssemblyReference.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2\obj\Debug\Parcial2.Form1.resources
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2\obj\Debug\Parcial2.Properties.Resources.resources
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2\obj\Debug\Parcial2.csproj.GenerateResource.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2\obj\Debug\Parcial2.pdb
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2 Jeff\bin\Debug\Parcial2.exe.config
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2 Jeff\bin\Debug\Parcial2.exe
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2 Jeff\bin\Debug\Parcial2.pdb
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2 Jeff\obj\Debug\Parcial2.csprojAssemblyReference.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2 Jeff\obj\Debug\Parcial2.Form1.resources
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2 Jeff\obj\Debug\Parcial2.Properties.Resources.resources
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2 Jeff\obj\Debug\Parcial2.csproj.GenerateResource.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2 Jeff\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2 Jeff\obj\Debug\Parcial2.exe
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Parcial2 Jeff\obj\Debug\Parcial2.pdb
